@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pratik Jain
+- 👀 I’m interested in software developement
+- 🌱 I’m currently learning about various component of development
+- 💞️ I’m looking to collaborate on various open source projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prtkjain07)
